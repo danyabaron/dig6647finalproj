@@ -1,3 +1,11 @@
+:root {
+    --text-color: #3A4856;
+    --btn-text: #DFE9F3;
+    --section-color: #C2FFF7;
+    --font: 'Montserrat', sans-serif;
+}
+
+
 body {
     background-image: url('assets/swatch.png');
     width: 100%;
