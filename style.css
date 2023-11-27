@@ -45,15 +45,17 @@ nav a {
 }
 
 a:hover {
-    color: #28323B;
-    text-decoration: underline;
+    /* color: #28323B;
+    text-decoration: underline; */
+    background-color: var(--text-color);
+    color: var(--section-color);
 }
 
 
 nav img {
 
-width: 50px;
-height: 50px;
+width: 100px;
+height: 100px;
 transform: rotate(30.581deg);
 flex-shrink: 0;
 
