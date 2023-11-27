@@ -44,6 +44,10 @@ nav a {
     font-weight: 400;
 }
 
+a:hover {
+    color: #28323B;
+    text-decoration: underline;
+}
 
 
 nav img {
