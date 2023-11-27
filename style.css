@@ -50,6 +50,7 @@ a:hover {
     text-decoration: underline; */
     background-color: var(--text-color);
     color: var(--section-color);
+    transform: scale(1.5);
 }
 
 
