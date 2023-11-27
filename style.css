@@ -57,10 +57,16 @@ a:hover {
 
 nav img {
 
-width: 100px;
-height: 100px;
+width: 80px;
+height: 80px;
 transform: rotate(30.581deg);
 flex-shrink: 0;
 
 
+}
+
+nav img:hover {
+    transform: rotate(50.581deg);
+    transition:0.5s;
+    transform: scale(1.2);
 }
