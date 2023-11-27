@@ -1,7 +1,9 @@
 body {
-    background-image: url('assets/swatch2.png');
-    width: 100%;
-    height: 100%;
+    background-image: url('assets/swatch.png');
+    /* width: 100%;
+    height: 100%; */
+    width: 1432px;
+    height: 8254px;
     /* flex-shrink: 0; */
 }
 
