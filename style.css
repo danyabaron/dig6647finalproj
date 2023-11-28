@@ -131,8 +131,9 @@ header {
 }
 
 .btn:hover {
-    background: var(--section-color);
-    color: var(--text-color);
+    transition: 0.5s;
+    background: #006A75;
+    color: var(r);
 
 
 }
