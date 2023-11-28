@@ -108,9 +108,9 @@ header {
     text-align: center; 
     color: var(--text-color); 
     font-size: 25px; 
-    font-family: Montserrat; 
+    font-family: var(--font); 
     font-weight: 300; 
-    word-wrap: break-word
+    word-wrap: break-word;
 }
 
 .btn {
@@ -124,7 +124,15 @@ header {
     color: var(--section-color);
     font-family: var(--font);
     border-radius: 25px; 
+    border: none;
     justify-content: center; 
     align-items: center; 
     display: inline-flex
+}
+
+.btn:hover {
+    background: var(--section-color);
+    color: var(--text-color);
+
+
 }
