@@ -103,7 +103,7 @@ header {
 }
 
 #subheading {
-    /* text-align: center; */
+    text-align: center;
     font-size: 25px;
     font-weight: 300;
     color: var(--text-color);
