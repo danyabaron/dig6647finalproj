@@ -106,7 +106,7 @@ header {
     width: 854px; 
     height: 100px; 
     text-align: center; 
-    color: #3A4856; 
+    color: var(--text-color); 
     font-size: 25px; 
     font-family: Montserrat; 
     font-weight: 300; 
@@ -120,7 +120,9 @@ header {
     padding-right: 8px; 
     padding-top: 18px; 
     padding-bottom: 18px;
-    background: #3A4856;
+    background: var(--text-color);
+    color: var(--section-color);
+    font-family: var(--font);
     border-radius: 25px; 
     justify-content: center; 
     align-items: center; 
