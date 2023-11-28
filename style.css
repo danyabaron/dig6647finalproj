@@ -139,3 +139,10 @@ header {
 
 
 }
+
+.float-right {
+    width: 200px; 
+    height: 250px; 
+    /* object-position: right top; */
+    float: right;
+}
