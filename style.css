@@ -112,3 +112,17 @@ header {
     font-weight: 300; 
     word-wrap: break-word
 }
+
+.btn {
+    width: 162px; 
+    height: 60px; 
+    padding-left: 8px; 
+    padding-right: 8px; 
+    padding-top: 18px; 
+    padding-bottom: 18px;
+    background: #3A4856;
+    border-radius: 25px; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex
+}
