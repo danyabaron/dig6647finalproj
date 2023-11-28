@@ -132,8 +132,9 @@ header {
 
 .btn:hover {
     transition: 0.5s;
-    background: #006A75;
-    color: var(r);
+    background: #28323B;
+    color: var(--section-color);
+    transform: scale(1.1);
 
 
 }
