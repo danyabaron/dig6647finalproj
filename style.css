@@ -169,7 +169,6 @@ header {
 #mission {
     flex-direction: column; 
     justify-content: flex-start; 
-
     align-items: center; 
     /* padding-top: 40px; */
     gap: 20px; 
@@ -214,4 +213,15 @@ header {
     font-family: Montserrat; 
     font-weight: 200; 
     word-wrap: break-word;
+}
+
+#children-books2 {
+    width: 640px; 
+    height: 336px; 
+    position: absolute;
+    background-image: url("assets/childrenbooks2.png");
+    top: 420px;
+    left: 380px;
+    margin-bottom: 50px;
+
 }
