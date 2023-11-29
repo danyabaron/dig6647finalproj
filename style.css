@@ -162,10 +162,12 @@ header {
 }
 
 
-/* .float-right {
-    width: 200px; 
-    height: 250px; 
-    /* object-position: right top; */
-    /* float: right;
-    padding-bottom: 50px;
-} */
+#mission {
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    padding-top: 40px;
+    gap: 20px; 
+    display: flex;
+    position:relative;
+}
