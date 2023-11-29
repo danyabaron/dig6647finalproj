@@ -141,10 +141,20 @@ header {
 
 }
 
-.float-right {
+#book-img {
+    width: 200px; 
+    height: 250px; 
+    position: absolute;
+    top: 10px;
+    right: 20px;
+
+}
+
+
+/* .float-right {
     width: 200px; 
     height: 250px; 
     /* object-position: right top; */
-    float: right;
+    /* float: right;
     padding-bottom: 50px;
-}
+} */
