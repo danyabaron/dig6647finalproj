@@ -145,9 +145,19 @@ header {
     width: 367px; 
     height: 456px; 
     position: absolute;
-    background-image: url("assets/bookboy.png");
+    background-image: url("assets/bookboy1.png");
     top: 190px;
     right: 80px;
+
+}
+
+#children-books {
+    width: 509px; 
+    height: 480px; 
+    position: absolute;
+    background-image: url("assets/childrenbooks.png");
+    top: 190px;
+    left: 80px;
 
 }
 
