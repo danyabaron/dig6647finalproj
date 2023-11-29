@@ -196,9 +196,9 @@ header {
 } 
 
 #mission-text {
-    width: 971px; 
-    height: 210px; 
-    text-align: center; 
+    /* width: 971px; 
+    height: 210px; */
+    text-align: center;  
     /* display:flex; */
     /* align-self: center; */
     color: #3A4856; 
