@@ -192,6 +192,7 @@ header {
     background: #C2FFF7; 
     border-radius: 70px; 
     border: 1px #3A4856 solid;
+    text-align: center;
    
 } 
 
@@ -201,6 +202,8 @@ header {
     text-align: center;  
     /* display:flex; */
     /* align-self: center; */
+    margin:auto 0;
+    display: inline-block;
     color: #3A4856; 
     font-size: 30px; 
     font-family: Montserrat; 
