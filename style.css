@@ -145,4 +145,5 @@ header {
     height: 250px; 
     /* object-position: right top; */
     float: right;
+    padding-bottom: 50px;
 }
