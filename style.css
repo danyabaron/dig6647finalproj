@@ -148,6 +148,7 @@ header {
     background-image: url("assets/bookboy.png");
     top: 190px;
     right: 80px;
+    margin-bottom: 50px;
 
 }
 
@@ -158,13 +159,15 @@ header {
     background-image: url("assets/childrenbooks.png");
     top: 190px;
     left: 80px;
+    margin-bottom: 50px;
 
 }
 
 
 #mission {
-    flex-direction: column; 
-    /* justify-content: flex-start;  */
+
+
+
     align-items: center; 
     /* padding-top: 40px; */
     gap: 20px; 
