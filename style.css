@@ -142,11 +142,11 @@ header {
 }
 
 #book-img {
-    width: 320px; 
-    height: 450px; 
+    width: 200px; 
+    height: 250px; 
     position: absolute;
-    background-image: url("assets/bookboy.png");
-    top: 90px;
+    background-image: url("assets/bookboy1.png");
+    top: 140px;
     right: 80px;
 
 }
