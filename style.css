@@ -193,3 +193,15 @@ header {
     border-radius: 70px; 
     border: 1px #3A4856 solid;
 }
+
+#mission-text {
+    width: 100%; 
+    height: 100%; 
+    text-align: center; 
+    align-self: center;
+    color: #3A4856; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 200; 
+    word-wrap: break-word;
+}
