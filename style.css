@@ -279,6 +279,18 @@ header {
     word-wrap: break-word;
 }
 
+
+#mom-kids {
+    width: 500px; 
+    height: 456px; 
+    position: absolute;
+    background-image: url("assets/momwithkids.png");
+    top: 420px;
+    left: 390px;
+    margin-bottom: 50px;
+
+}
+
 #history-details2 {
     width: 1100px;
     height: 450px;
