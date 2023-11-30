@@ -339,8 +339,8 @@ header {
 
 
 #testimonials {
-    flex-direction: column; 
-    justify-content: flex-start; 
+    /* flex-direction: row;  */
+    /* justify-content: flex-start;  */
     align-items: center; 
     /* padding-top: 40px; */
     gap: 20px; 
@@ -358,6 +358,19 @@ header {
 
 }
 
+
+.test-grid {
+    width:593px; 
+    height:959px; 
+    background: #C2FFF7; 
+    border-radius: 70px; 
+    border: 1px #3A4856 solid;
+    /* text-align: center; */
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+}
 
 
 
