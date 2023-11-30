@@ -369,11 +369,12 @@ header {
     border-radius: 70px;
     border: 1px #3A4856 solid;
     flex: 1;
+    justify-content: center;
 }
 
 .test-grid img {
-    width: 480px; 
-    height: 320px; 
+    width: 200px; 
+    height: 200px; 
     /* background: linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%);  */
     /* border-radius: 9999px; */
 }
