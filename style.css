@@ -260,7 +260,7 @@ header {
 
 #history {
     flex-direction: column;
-    justify-content: center; /* Center the child elements vertically */
+    justify-content: flex-start; /* Center the child elements vertically */
     align-items: center;
     gap: 20px;
     display: flex;
