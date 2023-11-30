@@ -226,11 +226,10 @@ header {
 
 }
 
-#history {
+/* #history {
     flex-direction: column; 
     justify-content: flex-start; 
-    align-items: center; 
-    /* padding-top: 40px; */
+    align-items: center;
     gap: 20px; 
     display: flex;
     text-align: center;
@@ -253,11 +252,41 @@ header {
     border: 1px #3A4856 solid;
     display: flex;
     justify-content: flex-start; /* Align to the left */
-    align-items: center;
+    /*align-items: center;
     text-align: center;
     margin-bottom: 140px;
 
+} */
+
+#history {
+    flex-direction: column;
+    justify-content: center; /* Center the child elements vertically */
+    align-items: center;
+    gap: 20px;
+    display: flex;
+    text-align: center;
+    position: relative;
+    margin-bottom: 500px;
 }
+
+#history-heading {
+    color: var(--text-color);
+    font-size: 35px;
+    font-weight: 600;
+}
+
+#history-details1 {
+    width: 1100px;
+    height: 450px;
+    background: #C2FFF7;
+    border-radius: 70px;
+    border: 1px #3A4856 solid;
+    display: flex;
+    margin: auto; /* Center the element horizontally */
+    text-align: center;
+    margin-bottom: 140px;
+}
+
 
 #history-text1 {
      /* width: 971px; 
