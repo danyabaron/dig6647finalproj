@@ -369,7 +369,9 @@ header {
     border-radius: 70px;
     border: 1px #3A4856 solid;
     flex: 1;
-    justify-content: center;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
 }
 
 .test-grid img {
