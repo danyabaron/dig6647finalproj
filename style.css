@@ -260,7 +260,7 @@ header {
     display: flex;
     /* align-items: center; */
     text-align: center;
-    /* margin-bottom: 140px; */
+    margin-bottom: 140px;
     /* float: left; */
 }
 
@@ -280,16 +280,20 @@ header {
 }
 
 #history-details2 {
-    width:1100px; 
-    height:450px; 
-    background: #C2FFF7; 
-    border-radius: 70px; 
+    width: 1100px;
+    height: 450px;
+    background: #C2FFF7;
+    border-radius: 70px;
     border: 1px #3A4856 solid;
-    /* text-align: center; */
-    display: flex;
+    /* position: absolute; */
+    margin-left: auto;
+    margin-right: 63px;
     justify-content: center;
-    align-items: center;
+    display: flex;
+    /* align-items: center; */
     text-align: center;
+    /* margin-bottom: 140px; */
+    /* float: left; */
 
 }
 
