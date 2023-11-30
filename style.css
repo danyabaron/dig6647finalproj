@@ -339,15 +339,11 @@ header {
 
 
 #testimonials {
-    /* flex-direction: row;  */
-    /* justify-content: flex-start;  */
-    align-items: center; 
-    /* padding-top: 40px; */
-    gap: 20px; 
     display: flex;
-    text-align: center;
-    /* position:relative; */
+    flex-direction: column;
+    align-items: center;
     margin-bottom: 400px;
+    gap: 20px;
 }
 
 #testimonial-heading {
@@ -358,19 +354,19 @@ header {
 
 }
 
+.testimonial-container {
+    display: flex;
+    gap: 20px;
+}
+
 
 .test-grid {
-    width:593px; 
-    height:959px; 
-    background: #C2FFF7; 
-    border-radius: 70px; 
+    width: 593px;
+    height: 959px;
+    background: #C2FFF7;
+    border-radius: 70px;
     border: 1px #3A4856 solid;
     flex: 1;
-    /* text-align: center; */
-    /* display: flex; */
-    /* justify-content: center;
-    align-items: center;
-    text-align: center; */
 }
 
 
