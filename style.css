@@ -177,6 +177,7 @@ header {
     text-align: center;
     position:relative;
     margin-bottom: 400px;
+    /* margin-top: 40px; */
 }
 
 #mission-heading {
@@ -260,7 +261,7 @@ header {
     display: flex;
     /* align-items: center; */
     text-align: center;
-    margin-bottom: 140px;
+    margin-bottom: 230px;
     /* float: left; */
 }
 
@@ -281,12 +282,12 @@ header {
 
 
 #mom-kids {
-    width: 500px; 
-    height: 456px; 
+    width: 583px; 
+    height: 280px; 
     position: absolute;
     background-image: url("assets/momwithkids.png");
     top: 420px;
-    left: 390px;
+    left: 800px;
     margin-bottom: 50px;
 
 }
@@ -304,7 +305,7 @@ header {
     display: flex;
     /* align-items: center; */
     text-align: center;
-    /* margin-bottom: 140px; */
+    margin-bottom: 200px;
     /* float: left; */
 
 }
