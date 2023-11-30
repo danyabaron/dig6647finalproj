@@ -260,13 +260,13 @@ header {
 
 #history {
     flex-direction: column;
-    justify-content: flex-start; /* Center the child elements vertically */
+    justify-content: flex-start;
     align-items: center;
     gap: 20px;
     display: flex;
     text-align: center;
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
 }
 
 #history-heading {
@@ -282,25 +282,20 @@ header {
     border-radius: 70px;
     border: 1px #3A4856 solid;
     display: flex;
-    margin: auto; /* Center the element horizontally */
     text-align: center;
-    /* margin-bottom: 140px; */
+    margin-bottom: 140px;
 }
 
 
 #history-text1 {
-     /* width: 971px; 
-    height: 210px; */
-    text-align: center;  
-    /* display:flex; */
-    /* align-self: center; */
-    margin:auto 0;
+    text-align: center;
+    margin: auto 0;
     display: inline-block;
     max-width: 971px;
-    color: #3A4856; 
-    font-size: 30px; 
-    font-family: Montserrat; 
-    font-weight: 200; 
+    color: #3A4856;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 200;
     word-wrap: break-word;
 }
 
