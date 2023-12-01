@@ -5,9 +5,9 @@
     --font: 'Montserrat', sans-serif;
 }
 
-/* html {
+html {
     overflow-y: hidden;
-} */
+}
 
 body {
     background: url('assets/Swatch.png');
