@@ -386,7 +386,8 @@ header {
     flex: 1;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
+    padding: 20px;
     
 }
 
@@ -401,9 +402,9 @@ header {
 .testimonial-text {
     text-align: center;
     color: #3A4856;
-    font-size: 18px;
+    font-size: 30px;
     font-family: Montserrat;
-    font-weight: 200;
+    font-weight:4200;
     word-wrap: break-word;
      
   
