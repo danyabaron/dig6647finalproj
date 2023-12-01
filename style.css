@@ -454,6 +454,14 @@ header {
     color: var(--font);
 }
 
+.fcf-form-group {
+    padding: 20px;
+}
+
+.fcf-label {
+    color: var(--font);
+}
+
 
 
 
