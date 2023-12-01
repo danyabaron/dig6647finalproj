@@ -460,6 +460,8 @@ header {
 
 .fcf-label {
     color: var(--font);
+    font-weight: 400;
+
 }
 
 
