@@ -234,8 +234,9 @@ header {
     position: absolute;
     background-image: url("assets/childrenbooks2.png");
     top: 420px;
-    left: 390px;
+   /* left: 390px; */
     margin-bottom: 50px;
+    align-self: center;
 
 }
 
@@ -343,8 +344,9 @@ header {
     position: absolute;
     background-image: url("assets/wheelchair.png");
     top: 950px;
-    left: 250px;
+    left: 270px;
     margin-bottom: 50px;
+    align-self: left;
 
 }
 
