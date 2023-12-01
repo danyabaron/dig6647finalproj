@@ -412,6 +412,39 @@ header {
 
 }
 
+#contact {
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+    /* padding-top: 40px; */
+    gap: 20px; 
+    display: flex;
+    text-align: center;
+    position:relative;
+    /* margin-bottom: 600px; */
+    /* margin-top: 40px; */
+
+}
+
+#contact-heading {
+    color: var(--text-color);
+    font-size: 35px;
+    font-weight: 600;
+
+}
+
+#contact-details {
+    width:1100px; 
+    height:450px; 
+    background: #C2FFF7; 
+    border-radius: 70px; 
+    border: 1px #3A4856 solid;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
 
 
