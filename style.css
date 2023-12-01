@@ -5,9 +5,9 @@
     --font: 'Montserrat', sans-serif;
 }
 
-html {
+/* html {
     overflow-y: hidden;
-}
+} */
 
 body {
     background: url('assets/Swatch.png');
@@ -19,8 +19,12 @@ body {
     /* flex-shrink: 0; */
     margin: 0;
     font-family: var(--font);
-    overflow: hidden;
+    /* overflow: hidden; */
 }
+/* 
+.scrollable-content {
+    overflow-y: auto;
+} */
 
 nav {
     position: relative;
