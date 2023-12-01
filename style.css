@@ -465,9 +465,11 @@ header {
 }
 
 
+.fcf-credit {
+    color: var(--text-color);
+    font-weight: 400;
 
-
-
+}
 
 
 
