@@ -457,6 +457,9 @@ header {
 
 
 .footer {
+    display: flex;
+    flex-direction: column;
+    
     text-align: center;
     background-color: var(--section-color);
     color: var(--text-color);
