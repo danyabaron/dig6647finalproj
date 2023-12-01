@@ -370,6 +370,7 @@ header {
 .testimonial-container {
     display: flex;
     gap: 80px;
+    align-items: center;
    
 
 }
@@ -378,6 +379,7 @@ header {
 .test-grid {
     width: 593px;
     height: 959px;
+    flex-direction: column;
     background: #C2FFF7;
     border-radius: 70px;
     border: 1px #3A4856 solid;
@@ -397,18 +399,14 @@ header {
 }
 
 .testimonial-text {
-     
-    text-align: center;  
-    /* display:flex; */
-    /* align-self: center; */
-    margin:auto 0;
-    display: inline-block;
-    max-width: 971px;
-    color: #3A4856; 
-    font-size: 30px; 
-    font-family: Montserrat; 
-    font-weight: 200; 
+    text-align: center;
+    color: #3A4856;
+    font-size: 18px;
+    font-family: Montserrat;
+    font-weight: 200;
     word-wrap: break-word;
+     
+  
 
 }
 
