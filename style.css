@@ -456,7 +456,7 @@ header {
 
 
 
-footer {
+.footer {
     text-align: center;
     background-color: var(--section-color);
     color: var(--text-color);
