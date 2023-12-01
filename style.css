@@ -58,7 +58,7 @@ nav a {
     transition: 0.5s;
 }
 
-a:hover {
+nav a:hover {
     /* color: #28323B;
     text-decoration: underline; */
     background-color: var(--text-color);
@@ -471,6 +471,13 @@ header {
 
 }
 
+
+.fcf-credit a {
+    color: var(--text-color);
+    font-weight: 400;
+    text-decoration: underline;
+
+}
 
 
 
