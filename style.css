@@ -247,7 +247,7 @@ header {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    gap: 20px;
+    gap: 50px;
     display: flex;
     text-align: center;
     position: relative;
@@ -343,7 +343,7 @@ header {
     height: 402px; 
     position: absolute;
     background-image: url("assets/wheelchair.png");
-    top: 950px;
+    top: 920px;
     left: 270px;
     margin-bottom: 50px;
     align-self: left;
