@@ -396,6 +396,17 @@ header {
     /* border-radius: 9999px; */
 }
 
+.testimonial-text {
+    width: 100%; 
+    height: 100%; 
+    text-align: center; 
+    color: #3A4856; 
+    font-size: 30px; 
+    font-family: Montserrat; 
+    font-weight: 400; 
+    word-wrap: break-word;
+
+}
 
 
 
