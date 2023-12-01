@@ -385,7 +385,7 @@ header {
     border: 1px #3A4856 solid;
     flex: 1;
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
     
 }
@@ -393,7 +393,7 @@ header {
 .test-grid img {
     width: 200px; 
     height: 200px; 
-    margin-top: 78px;
+    /* margin-top: 78px; */
     /* background: linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%);  */
     /* border-radius: 9999px; */
 }
