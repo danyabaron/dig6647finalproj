@@ -392,9 +392,9 @@ header {
 }
 
 .test-grid img {
-    width: 200px; 
-    height: 200px; 
-    /* margin-top: 78px; */
+    width: 300px; 
+    height: 300px; 
+    margin-top: 78px;
     /* background: linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%);  */
     /* border-radius: 9999px; */
 }
@@ -406,6 +406,7 @@ header {
     font-family: Montserrat;
     font-weight: 200;
     word-wrap: break-word;
+    margin-top: 110px;
      
   
 
