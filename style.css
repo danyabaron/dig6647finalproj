@@ -16,7 +16,7 @@ body {
     /* flex-shrink: 0; */
     margin: 0;
     font-family: var(--font);
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 nav {
