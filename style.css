@@ -479,6 +479,18 @@ header {
 
 }
 
+#contact-kids {
+    width: 541px; 
+    height: 456px; 
+    position: absolute;
+    background-image: url("assets/contactuskids.png");
+    
+    left: 270px; 
+    margin-bottom: 50px;
+    align-self: left;
+
+}
+
 
 
 .footer {
