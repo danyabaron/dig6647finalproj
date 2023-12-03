@@ -312,7 +312,7 @@ header {
     top: 950px;
     left: 270px;
     margin-bottom: 50px;
-    align-self: left;
+    /* align-self: left; */
 
 }
 
