@@ -243,7 +243,7 @@ header {
 
 
 
-#history {
+#program {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
@@ -254,13 +254,13 @@ header {
     margin-bottom: 20px; 
 }
 
-#history-heading {
+#program-heading {
     color: var(--text-color);
     font-size: 35px;
     font-weight: 600;
 }
 
-#history-details1 {
+#program-details1 {
     width: 1100px;
     height: 450px;
     background: #C2FFF7;
@@ -278,7 +278,7 @@ header {
 }
 
 
-#history-text1 {
+#program-text1 {
     text-align: center;  
     /* display:flex; */
     /* align-self: center; */
@@ -298,13 +298,13 @@ header {
     height: 280px; 
     position: absolute;
     background-image: url("assets/momwithkids.png");
-    top: 420px;
-    left: 800px;
+    top: 460px;
+    left: 820px;
     margin-bottom: 50px;
 
 }
 
-#history-details2 {
+#program-details2 {
     width: 1100px;
     height: 450px;
     background: #C2FFF7;
@@ -322,7 +322,7 @@ header {
 
 }
 
-#history-text2 {
+#program-text2 {
      /* width: 971px; 
     height: 210px; */
     text-align: center;  
