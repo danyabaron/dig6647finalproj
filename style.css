@@ -266,30 +266,13 @@ header {
     word-wrap: break-word;
 }
 
-
+/* 
 img {
     max-width: 100%;
     height: auto;
-}
+} */
 
-/* Adjustments for smaller screens */
-@media only screen and (max-width: 600px) {
-    #wheelchair {
-        width: 100%; /* Adjust as needed */
-        height: auto;
-        top: 30%; /* Adjust as needed */
-        left: 10%; /* Adjust as needed */
-        transform: translate(-50%, -50%);
-    }
 
-    #contact-kids {
-        width: 200px; /* Adjust as needed */
-        height: auto;
-        top: 20px; /* Adjust as needed */
-        right: 20px; /* Adjust as needed */
-        transform: translate(50%, -50%);
-    }
-}
 
 #mom-kids {
     width: 583px; 
