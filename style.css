@@ -267,6 +267,30 @@ header {
 }
 
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Adjustments for smaller screens */
+@media only screen and (max-width: 600px) {
+    #wheelchair {
+        width: 100%; /* Adjust as needed */
+        height: auto;
+        top: 30%; /* Adjust as needed */
+        left: 10%; /* Adjust as needed */
+        transform: translate(-50%, -50%);
+    }
+
+    #contact-kids {
+        width: 200px; /* Adjust as needed */
+        height: auto;
+        top: 20px; /* Adjust as needed */
+        right: 20px; /* Adjust as needed */
+        transform: translate(50%, -50%);
+    }
+}
+
 #mom-kids {
     width: 583px; 
     height: 280px; 
@@ -308,7 +332,7 @@ header {
     width: 583px; 
     height: 402px; 
     position: absolute;
-    background-image: url("assets/wheelchair.png");
+    /* background-image: url("assets/wheelchair.png"); */
     top: 950px;
     left: 270px;
     margin-bottom: 50px;
@@ -443,7 +467,7 @@ header {
     width: 541px; 
     height: 456px; 
     position: absolute;
-    background-image: url("assets/contactuskids.png");
+    /* background-image: url("assets/contactuskids.png"); */
     top: 150px;
     right: 140px; 
     margin-bottom: 50px;
