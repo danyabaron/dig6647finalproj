@@ -311,17 +311,17 @@ img {
     word-wrap: break-word;
 }
 
-/* #wheelchair {
+#wheelchair {
     width: 583px; 
     height: 402px; 
     position: absolute;
-    /* background-image: url("assets/wheelchair.png"); */
-    /* top: 950px;
+     background-image: url("assets/wheelchair.png");
+    top: 950px;
     left: 270px;
-    margin-bottom: 50px; */
+    margin-bottom: 50px; 
     /* align-self: left; */
-/* 
-} */ 
+
+} 
 
 
 #testimonials {
@@ -446,17 +446,17 @@ img {
 
 }
 
-/* #contact-kids {
+#contact-kids {
     width: 541px; 
     height: 456px; 
     position: absolute;
-    /* background-image: url("assets/contactuskids.png"); */
-    /* top: 150px;
+    background-image: url("assets/contactuskids.png");
+    top: 150px;
     right: 140px; 
     margin-bottom: 50px;
-    align-self: left; */
+    align-self: left; 
 
-/* } */ 
+} 
 
 
 
