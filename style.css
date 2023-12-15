@@ -95,6 +95,14 @@ nav img:hover {
         padding: 10px;
     }
 
+    nav a:hover {
+    
+      
+        font-size: 18px;
+        transform: scale(1.5);
+    }
+    
+
     nav img {
         width: 40px;
         height: 40px;
