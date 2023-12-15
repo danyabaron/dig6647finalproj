@@ -169,7 +169,7 @@ header {
     word-wrap: break-word;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
  
 
     #subheading {
@@ -226,7 +226,7 @@ header {
 }
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
  
 
     #book-img {
@@ -255,7 +255,7 @@ header {
 }
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
  
 
     #children-books {
@@ -328,7 +328,7 @@ header {
 }
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
  
 
     #mission-details {
@@ -426,7 +426,7 @@ img {
 
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
  
 
     #program-details1 {
@@ -497,7 +497,7 @@ img {
 
 } 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
 
    
     #program-details2 {
@@ -596,7 +596,7 @@ img {
 
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
 
     .test-grid {
         width: 100%;
@@ -703,7 +703,7 @@ img {
 
 
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1200px) {
 
     #contact-details {
         width: 100%;
