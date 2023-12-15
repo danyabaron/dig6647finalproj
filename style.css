@@ -68,15 +68,12 @@ nav ul {
     }
 
     #wheelchair {
-        width: 100%; /* Adjust the width as needed for smaller screens */
-        height: auto;
-        max-width: 583px; /* Add a maximum width if needed */
+        background-image: url("assets/wheelchairsmall.png");
+      
     }
 
     #contact-kids {
-        width: 100%; /* Adjust the width as needed for smaller screens */
-        height: auto;
-        max-width: 541px; /* Add a maximum width if needed */
+        background-image: url("assets/contactuskidssmall.png");
     }
 
     /* Add more responsive styles as needed */
