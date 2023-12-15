@@ -69,11 +69,13 @@ nav ul {
 
     #wheelchair {
         background-image: url("assets/wheelchairsmall.png");
+        background-size: contain;
       
     }
 
     #contact-kids {
         background-image: url("assets/contactuskidssmall.png");
+        background-size: contain;
     }
 
     /* Add more responsive styles as needed */
