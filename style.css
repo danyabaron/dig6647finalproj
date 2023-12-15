@@ -212,6 +212,21 @@ header {
 
 }
 
+
+@media screen and (max-width: 1400px) {
+ 
+
+    #book-img {
+
+        background-image: url("assets/bookboysmall.png");
+        top: 190px;
+        right: 80px;
+        margin-bottom: 50px;       
+      
+    }
+
+}
+
 #children-books {
     width: 509px; 
     height: 480px; 
@@ -220,6 +235,21 @@ header {
     top: 190px;
     left: 80px;
     margin-bottom: 50px;
+
+}
+
+
+@media screen and (max-width: 1400px) {
+ 
+
+    #book-img {
+
+        background-image: url("assets/childrenbooksheadersmall.png");
+        top: 190px;
+        left: 80px;
+        margin-bottom: 50px;    
+      
+    }
 
 }
 
