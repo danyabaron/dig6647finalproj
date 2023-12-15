@@ -219,6 +219,7 @@ header {
     #book-img {
 
         background-image: url("assets/bookboysmall.png");
+        background-size: contain;
         top: 190px;
         right: 80px;
         margin-bottom: 50px;       
@@ -231,7 +232,7 @@ header {
     width: 509px; 
     height: 480px; 
     position: absolute;
-    background-image: url("assets/childrenbooks.png");
+    /* background-image: url("assets/childrenbooks.png"); */
     top: 190px;
     left: 80px;
     margin-bottom: 50px;
@@ -244,7 +245,9 @@ header {
 
     #book-img {
 
+        width: 400px;
         background-image: url("assets/childrenbooksheadersmall.png");
+        background-size: contain;
         top: 190px;
         left: 80px;
         margin-bottom: 50px;    
