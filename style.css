@@ -41,49 +41,7 @@ nav ul {
 }
 
 
-/* Media queries for responsive design */
-@media screen and (max-width: 768px) {
-    nav {
-        flex-direction: column;
-        align-items: center;
-    }
 
-    nav ul {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    nav a {
-        padding: 10px;
-    }
-
-    nav img {
-        width: 40px;
-        height: 40px;
-    }
-
-    body {
-        background-attachment: scroll;
-        /* Adjust other styles as needed for smaller screens */
-    }
-
-    #wheelchair {
-        background-image: url("assets/wheelchairsmall.png");
-        background-size: contain;
-      
-    }
-
-    #contact-kids {
-        background-image: url("assets/contactuskidssmall.png");
-        background-size: contain;
-    }
-
-    /* Add more responsive styles as needed */
-}
-
-@media screen and (max-width: 600px) {
-    /* Additional styles for smaller screens */
-}
 
 nav a {
     text-decoration: none;
@@ -520,7 +478,52 @@ img {
 } 
 
 
+/* Media queries for responsive design */
+@media screen and (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
 
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav a {
+        padding: 10px;
+    }
+
+    nav img {
+        width: 40px;
+        height: 40px;
+    }
+
+    body {
+        background-attachment: scroll;
+        /* Adjust other styles as needed for smaller screens */
+    }
+
+    #wheelchair {
+        background-image: url("assets/wheelchairsmall.png");
+        background-size: contain;
+        top: 300px;
+        right: 700px;
+        margin-bottom: 50px;
+      
+    }
+
+    #contact-kids {
+        background-image: url("assets/contactuskidssmall.png");
+        background-size: contain;
+    }
+
+    /* Add more responsive styles as needed */
+}
+
+@media screen and (max-width: 600px) {
+    /* Additional styles for smaller screens */
+}
 
 
 
