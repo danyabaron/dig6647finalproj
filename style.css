@@ -318,7 +318,7 @@ img {
     width: 583px; 
     height: 402px; 
     position: absolute;
-     /* background-image: url("assets/wheelchair.png"); */
+    background-image: url("assets/wheelchair.png");
     top: 950px;
     left: 270px;
     margin-bottom: 50px; 
@@ -330,11 +330,13 @@ img {
  
 
     #wheelchair {
-        background-image: url("assets/wheelchairsmall.png");
-        background-size: contain;
-        top: 300px;
-        right: 700px;
-        margin-bottom: 50px;
+        
+            background-image: url("/dig6647finalproj/assets/wheelchairsmall.png");
+            background-size: contain;
+            top: 300px;
+            right: 700px;
+            margin-bottom: 50px;
+        
       
     }
 
