@@ -326,14 +326,16 @@ img {
 
 } 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1400px) {
  
 
     #wheelchair {
+
+            width: 490px; 
         
             background-image: url("/dig6647finalproj/assets/wheelchairsmall.png");
             background-size: contain;
-            top: 300px;
+            top: 950px;
             right: 700px;
             margin-bottom: 50px;
         
