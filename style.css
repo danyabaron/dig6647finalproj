@@ -330,6 +330,19 @@ header {
        
     }
 
+    #children-books2 {
+        width: 300px; 
+        height:155px; 
+     
+        background-image: url("assets/missionbookssmall.png");
+        top: 210px;
+        margin-bottom: 50px;
+        
+    
+    }
+
+
+
 }
 
 
