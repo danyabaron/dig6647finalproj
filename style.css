@@ -67,6 +67,18 @@ nav ul {
         /* Adjust other styles as needed for smaller screens */
     }
 
+    #wheelchair {
+        width: 100%; /* Adjust the width as needed for smaller screens */
+        height: auto;
+        max-width: 583px; /* Add a maximum width if needed */
+    }
+
+    #contact-kids {
+        width: 100%; /* Adjust the width as needed for smaller screens */
+        height: auto;
+        max-width: 541px; /* Add a maximum width if needed */
+    }
+
     /* Add more responsive styles as needed */
 }
 
