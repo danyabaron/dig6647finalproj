@@ -318,13 +318,30 @@ img {
     width: 583px; 
     height: 402px; 
     position: absolute;
-     background-image: url("assets/wheelchair.png");
+     /* background-image: url("assets/wheelchair.png"); */
     top: 950px;
     left: 270px;
     margin-bottom: 50px; 
     /* align-self: left; */
 
 } 
+
+@media screen and (max-width: 768px) {
+ 
+
+    #wheelchair {
+        background-image: url("assets/wheelchairsmall.png");
+        background-size: contain;
+        top: 300px;
+        right: 700px;
+        margin-bottom: 50px;
+      
+    }
+
+  
+
+    /* Add more responsive styles as needed */
+}
 
 
 #testimonials {
@@ -478,23 +495,8 @@ img {
 } 
 
 
-/* Media queries for responsive design */
-@media screen and (max-width: 768px) {
- 
 
-    #wheelchair {
-        background-image: url("assets/wheelchairsmall.png");
-        background-size: contain;
-        top: 300px;
-        right: 700px;
-        margin-bottom: 50px;
-      
-    }
 
-  
-
-    /* Add more responsive styles as needed */
-}
 
 @media screen and (max-width: 600px) {
     /* Additional styles for smaller screens */
