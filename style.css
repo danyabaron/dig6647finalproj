@@ -20,7 +20,7 @@ body {
     font-family: var(--font);
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1300px) {
 
     body {
         width: 100%;
