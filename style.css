@@ -119,6 +119,25 @@ header {
     word-wrap: break-word;
 }
 
+@media screen and (max-width: 1400px) {
+ 
+
+    #subheading {
+
+       
+            width: 500px; 
+            height: 100px; 
+            text-align: center; 
+            color: var(--text-color); 
+            font-size: 15px; 
+            font-family: var(--font); 
+            font-weight: 300; 
+            word-wrap: break-word;     
+      
+    }
+
+}
+
 .btn {
     width: 162px; 
     height: 60px; 
@@ -335,7 +354,7 @@ img {
         
             background-image: url("/dig6647finalproj/assets/wheelchairsmall.png");
             background-size: contain;
-            top: 1000px;
+            top: 1200px;
             right: 1300px;
             margin-bottom: 50px;
         
