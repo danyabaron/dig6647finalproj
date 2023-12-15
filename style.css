@@ -20,6 +20,19 @@ body {
     font-family: var(--font);
 }
 
+@media screen and (max-width: 1400px) {
+
+    body {
+        width: 100%;
+        /* background-size: contain; */
+    }
+
+    /* Add more responsive styles as needed */
+}
+
+
+
+
 
 nav {
     position: relative;
@@ -609,11 +622,6 @@ img {
     }
     
 
-   
-   
-
-  
-
     /* Add more responsive styles as needed */
 }
 
@@ -695,6 +703,28 @@ img {
 
 
 
+@media screen and (max-width: 1400px) {
+
+    #contact-details {
+        width: 100%;
+    }
+
+    #contact-kids {
+
+        width: 350px; 
+        height: 265px; 
+        background-image: url('assets/contactuskidssmall.png');
+        top: 200px;
+        right: 10px; 
+        margin-bottom: 50px;
+
+    }
+
+    /* Add more responsive styles as needed */
+}
+
+
+
 .footer {
     display: flex;
     flex-direction: column;
@@ -709,13 +739,20 @@ img {
   
 } 
 
+@media screen and (max-width: 1400px) {
 
+    #footer {
+        width: 100%;
+    }
 
-
-
-@media screen and (max-width: 600px) {
-    /* Additional styles for smaller screens */
+    /* Add more responsive styles as needed */
 }
+
+
+
+
+
+
 
 
 
